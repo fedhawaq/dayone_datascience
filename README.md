@@ -60,28 +60,6 @@ Result: 10
 
 ---
 
-## How to Run
-
-1. Make sure Python is installed
-2. Clone the repository:
-
-```
-git clone <your-repo-link>
-```
-
-3. Open the folder:
-
-```
-cd python-tasks
-```
-
-4. Run any file:
-
-```
-python filename.py
-```
-
----
 
 ## Note
 
